@@ -1,0 +1,11 @@
+data/raw/
+data/warehouse/
+node_modules/
+__pycache__/
+*.joblib
+*.csv
+*.pdf
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
